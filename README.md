@@ -41,5 +41,5 @@ I approach every project with curiosity, precision, and a commitment to driving 
 
 Feel free to connect or reach out to collaborate or discuss opportunities:
 
-- [LinkedIn](https://www.linkedin.com/in/MaxPietrykowski)  
+- [LinkedIn](https://www.linkedin.com/MaxPietrykowski)  
 - **Email:** maxp2001@icloud.com
