@@ -9,7 +9,7 @@
 
 I'm a data-driven professional with a background in economics and a passion for transforming complex data into actionable insights. Currently pursuing my Master’s in Business Analytics, I specialize in:
 
-- Data analytics using Python, SQL, and Power BI  
+- Data analytics using Python, SQL, and R-Studio 
 - Predictive modeling and classification with machine learning  
 - Data wrangling and cleaning to prepare real-world datasets  
 - Web scraping with Selenium and BeautifulSoup  
